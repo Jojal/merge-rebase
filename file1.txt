@@ -1,3 +1,6 @@
+COMMIT 4
+COMMIT 3
+
 COMMIT 2
 COMMIT 1
 <<<<<<< HEAD
